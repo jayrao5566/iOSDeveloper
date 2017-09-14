@@ -14,18 +14,26 @@
 
 专业与技能
 ##
-1.熟悉使用Object-C语言,ASP.NET开发,良好的编码习惯,规范通用的编码风格.
-2.熟悉UIKit控件的使用以及对控件进行重写与封装.
-3.熟悉MVC/Single/Delegate/KVO/KVC等设计模式.
-4.熟悉XCode的调试技巧.LLDB调试命令.Facebook的chisel框架.
-5.了解NSThread/NSOperation/GCD多线程开发.
-6.了解Runtime机制.
-7.了解环信即时通讯的集成.
-8.熟悉Masonry的使用.
-9.熟悉APP上架的基本流程以及访问真机设备的能力.
-10.熟练使用版本控制器SVN.
-11.具备一定开发管理能力. 
+1.熟练 iOS 开发掌握Objective-C语言，良好的编码习惯，规范通用的编码风格。
+
+2.熟练使用MVC/Single/Delegate/KVO/KVC等设计模式。
+
+3.熟练使用XCode的调试技巧，LLDB调试命令，Facebook的chisel框架。
+
+4.熟练使用NSThread/NSOperation/GCD多线程开发。
+
+5.熟悉Runtime机制，内存管理机制。
+
+6.熟悉环信即时通讯的集成。
+
+7.熟练使用AFNetworking、YYKit、MJRefresh、Masonry等开发中常用的第三方库。
+
+8.熟悉APP上架的基本流程以及访问真机设备的能力。
+
+9.良好的编程习惯和数据结构算法基础。
+
 工作经历：
+##
    2015/3--2017/3: 广州超享网络技术有限公司
 1.负责公司IOS平台下的iPhone应用程序的软件设计及开发.
 2.产品框架搭建.
