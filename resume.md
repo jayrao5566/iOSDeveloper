@@ -1,4 +1,4 @@
-<h1>饶世平个人简历</h1>
+# 饶世平个人简历
 
 ## 个人资料
 
@@ -206,6 +206,10 @@
 5.&emsp;[个体富进销存](https://itunes.apple.com/us/app/%E4%B8%AA%E4%BD%93%E5%AF%8C%E8%BF%9B%E9%94%80%E5%AD%98/id1088833882?l=zh&ls=1&mt=8)
 
 6.&emsp;[个体富流水账](https://itunes.apple.com/us/app/%E4%B8%AA%E4%BD%93%E5%AF%8C%E6%B5%81%E6%B0%B4%E8%B4%A6/id1198088239?mt=8)
+
+## 致谢
+&emsp;&emsp;感谢您花时间阅读我的简历，期待能有机会和您共事，邮箱联络，谢谢。
+
 
 
 
