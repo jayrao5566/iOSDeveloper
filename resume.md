@@ -2,11 +2,11 @@
 
 个人资料
 ##
->性别：男&emsp;&emsp;电话：136602005XX
+>性别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;电话：136602005XX
 
->籍贯：广东省韶关市&emsp;&emsp;学历：本科
+>籍贯：广东省韶关市&emsp;&emsp;&emsp;&emsp;&emsp;学历：本科
 
->院校：广东石油化工学院&emsp;&emsp;专业：信息与计算科学
+>院校：广东石油化工学院&emsp;&emsp;&emsp;专业：信息与计算科学
 
 >E-mail：546055228@qq.com 
 
