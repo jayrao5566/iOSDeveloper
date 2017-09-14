@@ -1,4 +1,4 @@
-<h1 style="text-align:center;color:red;width:100%;border-bottom:1px solid red">饶世平个人简历</h1>
+#饶世平个人简历#
 
 
 个人资料
