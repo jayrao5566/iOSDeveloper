@@ -1,7 +1,7 @@
 <h1>饶世平个人简历</h1>
 
 个人资料
-==
+-
 >性别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;电话：136602005XX
 
 >籍贯：广东省韶关市&emsp;&emsp;&emsp;&emsp;&emsp;学历：本科
