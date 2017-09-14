@@ -1,5 +1,4 @@
-<h1 style="text-align:center;color:red;">个人简历</h1>
-
+<h1 style="text-align:center;color:red;width:100%;border-bottom:1px solid red">个人简历</h1>
 
 饶世平
 个人资料：
