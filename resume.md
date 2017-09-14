@@ -14,23 +14,23 @@
 
 专业与技能
 ##
-1.熟练 iOS 开发掌握Objective-C语言，良好的编码习惯，规范通用的编码风格。
+>1.熟练 iOS 开发掌握Objective-C语言，良好的编码习惯，规范通用的编码风格。
 
-2.熟练使用MVC/Single/Delegate/KVO/KVC等设计模式。
+>2.熟练使用MVC/Single/Delegate/KVO/KVC等设计模式。
 
-3.熟练使用XCode的调试技巧，LLDB调试命令，Facebook的chisel框架。
+>3.熟练使用XCode的调试技巧，LLDB调试命令，Facebook的chisel框架。
 
-4.熟练使用NSThread/NSOperation/GCD多线程开发。
+>4.熟练使用NSThread/NSOperation/GCD多线程开发。
 
-5.熟悉Runtime机制，内存管理机制。
+>5.熟悉Runtime机制，内存管理机制。
 
-6.熟悉环信即时通讯的集成。
+>6.熟悉环信即时通讯的集成。
 
-7.熟练使用AFNetworking、YYKit、MJRefresh、Masonry等开发中常用的第三方库。
+>7.熟练使用AFNetworking、YYKit、MJRefresh、Masonry等开发中常用的第三方库。
 
-8.熟悉APP上架的基本流程以及访问真机设备的能力。
+>8.熟悉APP上架的基本流程以及访问真机设备的能力。
 
-9.良好的编程习惯和数据结构算法基础。
+>9.良好的编程习惯和数据结构算法基础。
 
 工作经历：
 ##
