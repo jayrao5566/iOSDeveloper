@@ -1,4 +1,4 @@
-<center>个人简历</center>
+<h1 style="text-align:center">个人简历</h1>
 
 
 饶世平
